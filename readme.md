@@ -10,7 +10,9 @@ Completate gli snack di seguito mettendo ciascuno snack nella sua cartella dentr
 
 Nella cartella di ciascuno snack metterete i file html/js necessari.
 
-:barretta_cioccolato: SNACK 3
+
+##SNACK 3
+ 
 Crea un array di oggetti che rappresentano degli animali.
 Ogni animale ha un nome, una famiglia e una classe.
 Es:
@@ -23,7 +25,8 @@ Es:
 ```
 Crea un nuovo array con la lista dei mammiferi.
 
-:barretta_cioccolato: SNACK 4
+##SNACK 4
+
 Crea un array di oggetti che rappresentano delle persone.
 Ogni persona ha un nome, un cognome e un’età.
 
